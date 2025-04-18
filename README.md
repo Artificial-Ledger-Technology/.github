@@ -1,5 +1,5 @@
-# <img src="https://via.placeholder.com/50" alt="ALT Logo" align="center"/> Artificial Ledger Technology (ALT)
-
+<!-- # <img src="https://via.placeholder.com/50" alt="ALT Logo" align="center"/> Artificial Ledger Technology (ALT) -->
+# 💫 Artificial Ledger Technology
 > *Bridging the gap between traditional systems and emerging technologies in the age of AI*
 
 [![GitHub stars](https://img.shields.io/github/stars/artificial-ledger-technology/alt-main)](https://github.com/Artificial-Ledger-Technology/Decentralized-Finance-DEFIAI)
